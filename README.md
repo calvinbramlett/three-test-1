@@ -1,6 +1,4 @@
 # Webpack THREE.js SCSS Template
-Forked from https://github.com/brunosimon/webpack-three-js-template
-Includes SCSS setup and [dat.GUI](https://github.com/dataarts/dat.gui#readme)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
